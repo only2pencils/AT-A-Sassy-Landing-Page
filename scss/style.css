@@ -80,7 +80,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 35px;
 }
 .hero-content img {
   width: 50%;
@@ -168,6 +168,4 @@ a {
 
 .py-5 {
   padding: 5rem 0;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
